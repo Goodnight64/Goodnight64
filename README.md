@@ -23,7 +23,6 @@
 <div align="center">
  <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs?username=goodnight64&show_icons=true&theme=dark&locale=en&layout=compact"  alt="goodnight64" />
  <img height="167em" src="https://github-readme-stats.vercel.app/api?username=goodnight64&show_icons=true&theme=dark&locale=en" alt="goodnight64" />
- <img height="167em" src="https://github-readme-streak-stats.herokuapp.com/?user=goodnight64&theme=dark" alt="goodnight64" />
 </div> 
 
 <img align="right" alt="Computador-pic" height="100" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"  /><br />
