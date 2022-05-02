@@ -1,5 +1,6 @@
+![banner](https://github.com/Goodnight64/ProjectFrontEnd/blob/main/img/WhatsApp%20Image%202022-05-02%20at%2014.18.55.jpeg?raw=true)
+
 <h1 align="center">Oi! 👋, Eu sou Arthur Gomes Felíx</h1>
-<h3 align="center">Welcome to my profile!</h3>
 
 - 💬 Ask me about **Java and js**
 
