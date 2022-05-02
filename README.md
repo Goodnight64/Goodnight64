@@ -22,3 +22,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=goodnight64&show_icons=true&theme=dark&locale=en" alt="goodnight64" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=goodnight64&theme=dark" alt="goodnight64" /></p>
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
