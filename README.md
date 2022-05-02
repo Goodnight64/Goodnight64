@@ -31,4 +31,4 @@
  
  ##
 
-![Snake animation](https://github.com/Goodnight64/Goodnight64/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com//Goodnight64/blob/output/github-contribution-grid-snake.gif)
